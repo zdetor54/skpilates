@@ -243,7 +243,7 @@ h1 em {
   }
 
   .profile-media {
-    position: static;
+    position: relative;
   }
 
   .profile-media img {
